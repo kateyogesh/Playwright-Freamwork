@@ -1,0 +1,17 @@
+[
+  {
+    "email": "abgl@gmail.com",
+    "password": "Abcd@123",
+    "validation": "valid"
+  },
+  {
+    "email": "ab@gmail.com",
+    "password": "Abcd@123",
+    "validation": "invalid"
+  },
+  {
+    "email": "",
+    "password": "",
+    "validation": "invalid"
+  }
+]

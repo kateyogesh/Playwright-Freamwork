@@ -54,6 +54,9 @@ test('nested fream handling',async({page})=>{
      
     await nestedfream.getByRole('radio',{name:'I am a human'}).check()
 
+    await page.screenshot({path:'./screenshot/fream1.png'})
+    
+
 
 
 })
